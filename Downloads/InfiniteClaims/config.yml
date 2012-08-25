@@ -1,0 +1,14 @@
+extendedLog: false
+plots:
+  X-axis: 4
+  Z-axis: 4
+  height: 20
+signs:
+  enabled: true
+  placement: 0
+  prefix: 'Plot Owner:'
+homes:
+  enabled: true
+home:
+  sethome: sethome
+  gohome: home
