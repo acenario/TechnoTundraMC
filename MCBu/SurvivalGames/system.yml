@@ -1,0 +1,26 @@
+sg-system:
+  lobby:
+    sign:
+      set: true
+      world: SurvivalMain
+      x1: -297
+      y1: 69
+      z1: 195
+      x2: -305
+      y2: 67
+      z2: 195
+    spawn:
+      world: SurvivalMain
+      x: -301
+      y: 66
+      z: 210
+  arenano: 1
+  arenas:
+    '1':
+      world: TundraGames
+      x1: -1076
+      y1: 255
+      z1: -110
+      x2: -2078
+      y2: 5
+      z2: -1112
