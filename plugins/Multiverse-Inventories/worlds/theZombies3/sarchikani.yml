@@ -1,0 +1,8 @@
+playerData:
+  inventoryContents: 0:t:323/1:t:271
+  balance: '1.62'
+  potions: ''
+  lastLocation: wo:theZombies3;x:315.85967634790757;y:95.6238038054543;z:-210.23596967500623;pi:64.950005;ya:-85.49996
+  armorContents: ''
+  bedSpawnLocation: wo:theZombies3;x:224.0;y:5.0;z:-276.0;pi:0.0;ya:0.0
+  stats: fd:0.0;ex:0.025899999;sa:5.0;hp:20;txp:0;ft:-20;xp:0.0;ra:300;fl:20;ma:300;el:0

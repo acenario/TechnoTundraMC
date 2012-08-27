@@ -1,0 +1,34 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1345680476780
+  logout: 1345680492105
+  lastteleport: 1340853683500
+  jail: 0
+  mute: 0
+powertoolsenabled: true
+muted: false
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 108.20.149.158
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: -127.849625
+  pitch: 47.850044
+  z: -42.99838689722147
+  y: -9287.065446185623
+  world: SurvivalMain
+  x: 105.14442996328481
+inventory:
+  size: 0
+homes:
+  home:
+    world: Hardcore
+    x: -2218.7680939314746
+    y: 62.0
+    z: 232.82576960931698
+    yaw: 146.80518
+    pitch: 19.199942
+powertools: {}

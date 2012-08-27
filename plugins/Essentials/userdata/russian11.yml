@@ -1,0 +1,24 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1340853557400
+  logout: 1340853962427
+  lastteleport: 1340335562294
+  mute: 0
+powertoolsenabled: true
+muted: false
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 96.233.52.75
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: 30.760986
+  pitch: 7.9499807
+  z: 7.30000001192108
+  y: 11.0
+  world: Hostile4
+  x: 102.69999998807907
+inventory:
+  size: 0

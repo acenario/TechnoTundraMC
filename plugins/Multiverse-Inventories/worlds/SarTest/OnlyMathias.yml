@@ -1,0 +1,8 @@
+playerData:
+  armorContents: ''
+  potions: ''
+  inventoryContents: 0:t:1
+  balance: '0.0'
+  bedSpawnLocation: wo:SarTest;x:651.0;y:4.0;z:643.0;pi:0.0;ya:0.0
+  lastLocation: wo:SarTest;x:639.5492109457143;y:63.066774109971576;z:693.3214729929762;pi:-4.5000014;ya:163.05002
+  stats: ft:-20;fl:20;xp:0.0;ex:0.0;ra:300;hp:20;sa:5.0;fd:0.0;ma:300;txp:0;el:0

@@ -1,0 +1,35 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1345726429576
+  logout: 1345726507155
+  lastteleport: 1340850971002
+  kits:
+    tools: 1330378360252
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 72.74.57.242
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: -65.70032
+  pitch: 41.699978
+  z: 335.16831842366344
+  y: 60.0
+  world: Gate
+  x: 361.69999998807907
+homes:
+  home:
+    world: Gate
+    x: 303.5
+    y: 63.0
+    z: 188.5
+    yaw: -0.58198357
+    pitch: -3.7496643
+ban:
+  reason: for abuse of power

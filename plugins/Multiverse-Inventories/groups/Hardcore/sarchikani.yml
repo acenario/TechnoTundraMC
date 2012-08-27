@@ -1,0 +1,8 @@
+playerData:
+  armorContents: ''
+  balance: '321.15999998807877'
+  bedSpawnLocation: wo:Hardcore;x:43.0;y:67.0;z:46.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: 0:t:324/1:t:271/2:t:24;d:2/3:t:66/4:t:76/5:t:288/6:t:344;#:2/7:t:46;#:2/8:t:3;#:40/9:t:4;#:4/10:t:6/11:t:35
+  lastLocation: wo:Hardcore;x:-80.30000001192093;y:98.0;z:624.3079834921583;pi:18.599998;ya:269.00354
+  stats: el:0;fl:11;txp:0;fd:0.0;hp:20;xp:0.0;ma:300;ft:-20;ex:1.8466692;ra:300;sa:0.0

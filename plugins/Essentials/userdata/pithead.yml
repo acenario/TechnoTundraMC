@@ -1,0 +1,22 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1339703900840
+  lastteleport: 1334716871094
+  logout: 1339704066960
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 96.233.35.172
+jailed: false
+lastlocation:
+  yaw: 184.79797
+  pitch: 15.90009
+  z: -380.9194590932332
+  y: 63.0
+  world: theZombies3
+  x: 76.26511709121863

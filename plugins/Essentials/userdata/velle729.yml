@@ -1,0 +1,21 @@
+timestamps:
+  login: 1340846783888
+  lastteleport: 1340847249369
+  logout: 1340848192643
+ipAddress: 108.20.27.252
+lastlocation:
+  world: Hardcore
+  x: -80.26083638471113
+  y: 63.0
+  z: 198.99625417125978
+  yaw: -251.6919
+  pitch: 10.742375
+afk: false
+homes:
+  home:
+    world: Hardcore
+    x: 16.38687314635765
+    y: 104.0
+    z: 918.4412604012945
+    yaw: 226.49872
+    pitch: 68.49601

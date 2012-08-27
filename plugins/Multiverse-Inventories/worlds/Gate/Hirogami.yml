@@ -1,0 +1,8 @@
+playerData:
+  potions: ''
+  balance: '41.36999999999999'
+  lastLocation: wo:Gate;x:178.69285248864907;y:62.0;z:242.30446794993546;pi:6.768054;ya:75.00024
+  bedSpawnLocation: wo:Gate;x:101.0;y:80.0;z:238.0;pi:0.0;ya:0.0
+  inventoryContents: ''
+  armorContents: ''
+  stats: ra:300;hp:20;ft:-20;sa:5.0;fd:0.0;txp:0;fl:20;xp:0.0;ex:0.47729993;el:0;ma:300

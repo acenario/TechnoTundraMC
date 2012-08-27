@@ -1,0 +1,10 @@
+informPlayers: true
+enable: true
+itemRestrictions: true
+messages:
+  whitelist: You are not allowed to join this server. Goodbye!
+whitelist: false
+use-material-names: true
+check-metadata: false
+item-use-check: false
+drop-restricted-item: false

@@ -1,0 +1,12 @@
+npc: false
+timestamps:
+  login: 1332022314505
+  logout: 1332023696743
+ipAddress: 98.217.242.218
+lastlocation:
+  world: SurvivalMain
+  x: -121.5
+  y: 70.62000000476837
+  z: 248.5
+  yaw: 0.0
+  pitch: 0.0

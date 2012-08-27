@@ -1,0 +1,7 @@
+playerData:
+  balance: '3.46'
+  bedSpawnLocation: wo:SonicCraft;x:304.0;y:102.0;z:236.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: ''
+  armorContents: ''
+  stats: el:0;ra:300;fl:20;ma:300;ex:0.029099999;fd:0.0;sa:5.0;ft:-20;hp:20;txp:0;xp:0.0

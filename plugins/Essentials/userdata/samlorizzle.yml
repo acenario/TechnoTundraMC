@@ -1,0 +1,31 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1334972361629
+  logout: 1334975771910
+  lastteleport: 1334975246538
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 98.217.242.248
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: -201.29797
+  pitch: 2.2501652
+  z: -107.905767681326
+  y: 69.88172773251726
+  world: theZombies3
+  x: 282.43308518536526
+homes:
+  home:
+    world: Gate
+    x: 124.25531862024418
+    y: 64.0
+    z: 265.69999998807907
+    yaw: 87.30087
+    pitch: 28.800102

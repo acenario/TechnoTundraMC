@@ -1,0 +1,21 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1337726465503
+  logout: 1337726474611
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 75.147.4.237
+jailed: false
+lastlocation:
+  yaw: 0.0
+  pitch: 0.0
+  z: 202.5
+  y: 64.62000000476837
+  world: SurvivalMain
+  x: -190.5

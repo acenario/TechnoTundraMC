@@ -1,0 +1,23 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1340843700815
+  logout: 1340845074223
+  lastteleport: 1340769949427
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 71.233.129.246
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: -28.608763
+  pitch: 15.20075
+  z: -3.5641024298850565
+  y: 20.0
+  world: TundraGames2
+  x: 8.069969730301343

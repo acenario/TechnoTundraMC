@@ -1,0 +1,178 @@
+portals:
+  gateportal:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: potatoe4
+    location: 277.0,55.0,-227.0:280.0,60.0,-227.0
+    world: ZombieSurvival
+  toGate:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 276.0,57.0,-228.0:280.0,58.0,-228.0
+    world: ZombieSurvival
+    destination: Gate
+  meczombie:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 7.0,39.0,-87.0:9.0,39.0,-83.0
+    world: MelanyCraft
+    destination: ZombieSurvival
+  GatetoZombie:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 142.0,90.0,205.0:142.0,93.0,218.0
+    world: Gate
+    destination: ZombieSurvival
+  GatetoHeaven:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 143.0,86.0,232.0:143.0,91.0,243.0
+    world: Gate
+    destination: Heaven
+  GatetoMain:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 97.0,86.0,280.0:108.0,90.0,280.0
+    world: Gate
+    destination: SurvivalMain
+  GatetoHardcore:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 58.0,87.0,253.0:58.0,88.0,255.0
+    world: Gate
+    destination: Hardcore
+  GatetoGriefing:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 143.0,86.0,262.0:143.0,88.0,265.0
+    world: Gate
+    destination: Griefing
+  GatetoCreative:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 58.0,86.0,209.0:58.0,88.0,211.0
+    world: Gate
+    destination: Creative_World
+  GatetoMinigames:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 57.0,86.0,236.0:57.0,91.0,242.0
+    world: Gate
+    destination: Minigames
+  toNetherH:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -313.0,57.0,857.0:-310.0,59.0,857.0
+    world: Heaven
+    destination: Heaven_nether
+  toHeavenH:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -21.0,69.0,-18.0:-21.0,73.0,-15.0
+    world: Heaven_nether
+    destination: p:toNetherH
+  w:HGames:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -61.0,37.0,65.0:-58.0,41.0,65.0
+    world: SurvivalMain_nether
+  toHGames:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -61.0,37.0,65.0:-58.0,41.0,65.0
+    world: SurvivalMain_nether
+    destination: HGames
+  netherHGames:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -62.0,37.0,65.0:-57.0,41.0,65.0
+    world: SurvivalMain_nether
+  NHG:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -62.0,37.0,65.0:-57.0,41.0,65.0
+    world: SurvivalMain_nether
+    destination: HGames
+  toN:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: 265.0,69.0,302.0:265.0,73.0,305.0
+    world: HGames
+    destination: SurvivalMain_nether
+  toHG:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: acenario
+    location: -27.0,37.0,77.0:-24.0,41.0,77.0
+    world: SurvivalMain_nether
+    destination: p:toN

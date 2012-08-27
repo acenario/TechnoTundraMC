@@ -1,0 +1,8 @@
+playerData:
+  inventoryContents: ''
+  balance: '1.78'
+  potions: ''
+  lastLocation: wo:Creative_World;x:8.140737680303259;y:21.0;z:10.595533591702225;pi:16.199999;ya:-130.50002
+  armorContents: ''
+  bedSpawnLocation: wo:Creative_World;x:0.0;y:21.0;z:1.0;pi:0.0;ya:0.0
+  stats: fd:0.0;ex:0.0;sa:5.0;hp:20;txp:0;ft:-20;xp:0.0;ra:300;fl:20;ma:300;el:0

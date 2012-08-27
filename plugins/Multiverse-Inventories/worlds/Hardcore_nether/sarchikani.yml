@@ -1,0 +1,7 @@
+playerData:
+  bedSpawnLocation: wo:Hardcore;x:43.0;y:67.0;z:46.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: 0:t:87;#:64/1:t:87;#:64/2:t:261;d:7;e:ARROW_FIRE:1,ARROW_KNOCKBACK:2,ARROW_DAMAGE:5/3:t:278;d:1057;e:DURABILITY:3,LOOT_BONUS_BLOCKS:3,DIG_SPEED:4/4:t:277;d:496/5:t:276;d:146;e:DAMAGE_ALL:3,KNOCKBACK:2/6:t:276;d:301;e:LOOT_BONUS_MOBS:3/7:t:50;#:39/8:t:360;#:16/9:t:87;#:21/10:t:348;#:7/11:t:262;#:64/13:t:87;#:64/14:t:87;#:64/15:t:261;e:ARROW_INFINITE:1/16:t:87;#:64/17:t:87;#:64/19:t:262;#:27/20:t:320;#:32/21:t:5;d:2/22:t:87;#:64/23:t:5;#:3/25:t:355
+  balance: '307.8299999880787'
+  armorContents: 0:t:313;d:113/1:t:312;d:116/2:t:311;d:114/3:t:310;d:109
+  stats: txp:28;sa:4.0;ft:-20;el:2;xp:0.78571427;fl:20;ra:300;ex:1.6567956;hp:20;ma:300;fd:0.0

@@ -1,0 +1,35 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1339207577550
+  lastteleport: 1339207677100
+  logout: 1339207734594
+  jail: 0
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 66.31.125.35
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: 0.0
+  pitch: 0.0
+  z: 94.0
+  y: 86.0
+  world: Hostile3
+  x: 267.0
+homes:
+  home:
+    yaw: -134.86145
+    pitch: 1.649986
+    z: -62.547814228600956
+    y: 67.0
+    world: NewWorld
+    x: -11.006718507690913
+mail:
+- 'acenario: Butt'
+- 'sarchikani: arjun smells'

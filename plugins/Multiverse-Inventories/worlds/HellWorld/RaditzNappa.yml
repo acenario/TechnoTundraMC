@@ -1,0 +1,8 @@
+playerData:
+  potions: ''
+  lastLocation: wo:HellWorld;x:-487.224272877343;y:62.63172773251712;z:749.7524901368006;pi:40.95;ya:-271.04907
+  armorContents: ''
+  balance: '3.01'
+  inventoryContents: 0:t:271
+  bedSpawnLocation: wo:HellWorld;x:-381.0;y:92.0;z:317.0;pi:0.0;ya:0.0
+  stats: sa:4.0;hp:20;txp:0;ex:0.2709996;fd:0.0;fl:20;el:0;ft:-20;ra:300;ma:300;xp:0.0

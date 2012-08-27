@@ -1,0 +1,8 @@
+playerData:
+  lastLocation: wo:Hostile3;x:256.4506188771698;y:53.0;z:-136.26957112367796;pi:24.74998;ya:72.45163
+  balance: '2.83'
+  bedSpawnLocation: wo:Hostile3;x:248.0;y:72.0;z:-169.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: ''
+  armorContents: ''
+  stats: el:0;ra:300;fl:16;ma:300;ex:1.1774454;fd:0.0;sa:0.0;ft:-20;hp:20;txp:2;xp:0.2857143

@@ -1,0 +1,10 @@
+blocks:
+  lower-wall: 98
+  upper-wall: 85
+  path: 44
+  surface: 2
+  base: 1
+plots:
+  restrict-spawning: true
+  size: 128
+  height: 20

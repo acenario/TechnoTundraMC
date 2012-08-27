@@ -1,0 +1,8 @@
+playerData:
+  potions: ''
+  lastLocation: wo:Minigames;x:-2.834038802760457;y:64.0;z:845.9452259987881;pi:-8.100001;ya:348.60007
+  armorContents: ''
+  balance: '0.0'
+  inventoryContents: ''
+  bedSpawnLocation: wo:Minigames;x:-98.0;y:63.0;z:180.0;pi:0.0;ya:0.0
+  stats: sa:5.0;hp:20;txp:0;ex:0.2064;fd:0.0;fl:20;el:0;ft:-20;ra:300;ma:300;xp:0.0

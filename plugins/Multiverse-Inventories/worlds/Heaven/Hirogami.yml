@@ -1,0 +1,8 @@
+playerData:
+  balance: '0.0'
+  potions: ''
+  lastLocation: wo:Heaven;x:3.3340070197037517;y:49.0;z:-8.505369665153406;pi:4.7999735;ya:14.2498865
+  armorContents: ''
+  bedSpawnLocation: wo:Heaven;x:-4.0;y:49.0;z:-14.0;pi:0.0;ya:0.0
+  inventoryContents: ''
+  stats: ft:-20;ra:300;sa:5.0;ex:0.9671999;xp:0.0;ma:300;txp:0;hp:20;fl:20;fd:0.0;el:0

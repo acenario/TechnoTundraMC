@@ -1,0 +1,14 @@
+npc: false
+timestamps:
+  login: 1332121386099
+  logout: 1332125718773
+  lastteleport: 1332123309661
+ipAddress: 108.20.235.196
+lastlocation:
+  world: Heaven
+  x: -274.60094651754196
+  y: 48.0
+  z: 848.1665319549604
+  yaw: -122.41606
+  pitch: 24.299883
+afk: false

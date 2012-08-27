@@ -1,0 +1,31 @@
+npc: false
+socialspy: false
+timestamps:
+  login: 1345689178721
+  lastteleport: 1345680566318
+  logout: 1345689652155
+powertoolsenabled: true
+muted: false
+inventory:
+  size: 0
+godmode: false
+teleportenabled: true
+afk: false
+ipAddress: 24.147.125.60
+jailed: false
+money: 0.0
+lastlocation:
+  yaw: -267.9005
+  pitch: 12.450005
+  z: -155.52797049728764
+  y: 68.17586244518802
+  world: Gate
+  x: -283.69999998807907
+homes:
+  home:
+    world: Hardcore
+    x: 58.81299759727348
+    y: 64.0
+    z: 43.51039911750272
+    yaw: 299.00323
+    pitch: 34.536568

@@ -1,0 +1,8 @@
+playerData:
+  lastLocation: wo:SonicCraft;x:271.81244422067215;y:83.0;z:105.53780059747312;pi:11.310766;ya:100.03187
+  balance: '1.65'
+  bedSpawnLocation: wo:SonicCraft;x:278.0;y:83.0;z:109.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: 0:t:373;d:8194/1:t:266;#:64/2:t:322;#:59/3:t:297;#:31/4:t:374/5:t:374/6:t:305;e:PROTECTION_FALL:4/7:t:373;d:8258/8:t:373;d:8193/9:t:42;#:2/35:t:266;#:25
+  armorContents: 0:t:305;d:10;e:PROTECTION_FALL:4
+  stats: el:0;ra:300;fl:20;ma:300;ex:3.6123323;fd:0.0;sa:9.0;ft:-20;hp:20;txp:0;xp:0.0

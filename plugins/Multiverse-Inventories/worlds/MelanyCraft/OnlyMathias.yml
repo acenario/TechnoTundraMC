@@ -1,0 +1,8 @@
+playerData:
+  potions: ''
+  lastLocation: wo:MelanyCraft;x:-64.72503311390194;y:72.37380378933813;z:-92.43240128636116;pi:-189.2998;ya:-34.950073
+  armorContents: ''
+  balance: '0.0'
+  inventoryContents: 0:t:22
+  bedSpawnLocation: wo:MelanyCraft;x:2.0;y:73.0;z:-84.0;pi:0.0;ya:0.0
+  stats: sa:5.0;hp:20;txp:0;ex:0.0;fd:0.0;fl:20;el:0;ft:-20;ra:300;ma:300;xp:0.0

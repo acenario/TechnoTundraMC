@@ -1,0 +1,8 @@
+playerData:
+  armorContents: ''
+  balance: '1.27'
+  bedSpawnLocation: wo:SarTest;x:651.0;y:4.0;z:643.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: 0:t:37;#:64/1:t:37;#:64/2:t:37;#:51/3:t:271/18:t:38;#:64/19:t:38;#:27/27:t:295;#:64/28:t:295;#:64/29:t:295;#:64/30:t:295;#:64/31:t:295;#:3
+  lastLocation: wo:SarTest;x:760.593625825855;y:8.631727732517279;z:585.4359736497255;pi:14.249949;ya:41.69972
+  stats: el:5;txp:74;fl:20;fd:0.0;hp:20;xp:0.20833339;ma:300;ft:-20;ex:1.9850668;ra:300;sa:0.0

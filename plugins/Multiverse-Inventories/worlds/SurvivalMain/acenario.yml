@@ -1,0 +1,24 @@
+SURVIVAL:
+  inventoryContents: 0:t:38/1:t:54;#:62/3:t:35;d:1/4:t:35;d:13/5:t:311/6:t:42/7:t:57/14:t:336;#:60/24:t:1/32:t:37
+  potions: ''
+  balance: '3.91'
+  bedSpawnLocation: wo:SurvivalMain;x:-191.0;y:63.0;z:200.0;pi:0.0;ya:0.0
+  armorContents: ''
+  lastLocation: wo:SurvivalMain;x:-211.25098548845952;y:64.10091996634135;z:201.1099182100463;pi:-75.966965;ya:-12.076632
+  stats: fd:0.0;txp:0;xp:0.0;sa:5.0;el:0;ma:300;fl:20;hp:20;ex:0.8220002;ft:-20;ra:300
+CREATIVE:
+  bedSpawnLocation: wo:SurvivalMain;x:-191.0;y:63.0;z:200.0;pi:0.0;ya:0.0
+  potions: ''
+  balance: '3.91'
+  inventoryContents: 0:t:38/1:t:37
+  armorContents: ''
+  lastLocation: wo:SurvivalMain;x:-211.25098548845952;y:64.10091996634135;z:201.1099182100463;pi:-12.076632;ya:-75.966965
+  stats: ft:-20;el:0;hp:20;txp:0;fl:20;fd:0.0;ma:300;ra:300;ex:0.0;sa:5.0;xp:0.0
+ADVENTURE:
+  bedSpawnLocation: wo:SurvivalMain;x:-191.0;y:63.0;z:200.0;pi:0.0;ya:0.0
+  potions: ''
+  balance: '3.91'
+  inventoryContents: 0:t:38/1:t:37
+  armorContents: ''
+  lastLocation: wo:SurvivalMain;x:-211.25098548845952;y:64.10091996634135;z:201.1099182100463;pi:-12.076632;ya:-75.966965
+  stats: ft:-20;el:0;hp:20;txp:0;fl:20;fd:0.0;ma:300;ra:300;ex:0.0;sa:5.0;xp:0.0

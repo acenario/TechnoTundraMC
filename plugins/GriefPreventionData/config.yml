@@ -1,0 +1,89 @@
+GriefPrevention:
+  Claims:
+    Enabled: 'true'
+    PreventTheft: true
+    PreventButtonsSwitches: true
+    InitialBlocks: 100
+    BlocksAccruedPerHour: 256
+    MaxAccruedBlocks: 80000
+    AutomaticNewPlayerClaimsRadius: 0
+    ExtendIntoGroundDistance: 10
+    CreationRequiresPermission: true
+    MinimumSize: 10
+    MaximumDepth: 0
+    TrappedCommandCooldownHours: 8
+    Worlds:
+    - SurvivalMain
+    - SurvivalMain_nether
+    - Heaven
+    - Hardcore_nether
+    - Hardcore
+    - Hardcore_nether
+    - Griefing
+    - Heaven_nether
+    CreativeRulesWorlds: []
+    ProtectCreatures: true
+    LockWoodenDoors: false
+    LockTrapDoors: false
+    LockFenceGates: true
+    IdleLimitDays: 0
+    InvestigationTool: STICK
+    ModificationTool: GOLD_SPADE
+    NoSurvivalBuildingOutsideClaims: false
+    WarnWhenBuildingOutsideClaims: false
+  Spam:
+    LoginCooldownMinutes: 0
+    MonitorSlashCommands: 'false'
+    WarningMessage: Please reduce your message speed.  Spammers will be banned.
+    BanOffenders: false
+    BanMessage: Banned for spam.
+    Enabled: true
+    AllowedIpAddresses: 1.2.3.4; 5.6.7.8
+  PvP:
+    Enabled: true
+    ProtectFreshSpawns: false
+    PunishLogout: true
+    CombatTimeoutSeconds: 30
+    AllowCombatItemDrop: true
+  Trees:
+    RemoveFloatingTreetops: true
+    RegrowGriefedTrees: true
+  Economy:
+    ClaimBlocksPurchaseCost: 0.0
+    ClaimBlocksSellValue: 0.0
+  CreepersDontDestroySurface: false
+  FireSpreads: true
+  FireDestroys: true
+  Siege:
+    Worlds: []
+    BreakableBlocks:
+    - DIRT
+    - GRASS
+    - LONG_GRASS
+    - COBBLESTONE
+    - GRAVEL
+    - SAND
+    - GLASS
+    - THIN_GLASS
+    - WOOD
+    - WOOL
+    - SNOW
+  BlockSurfaceCreeperExplosions: true
+  BlockSurfaceOtherExplosions: true
+  LimitSurfaceWaterBuckets: false
+  LimitSkyTrees: true
+  AddItemsToClaimedChests: true
+  EavesdropEnabled: false
+  WhisperCommands: /tell;/pm;/r
+  SmartBan: true
+  EndermenMoveBlocks: false
+  CreaturesTrampleCrops: false
+  Database:
+    URL: ''
+    UserName: ''
+    Password: ''
+  Mods:
+    BlockIdsRequiringAccessTrust: []
+    BlockIdsRequiringContainerTrust: []
+    BlockIdsExplodable: []
+    PlayersIgnoringAllClaims: []

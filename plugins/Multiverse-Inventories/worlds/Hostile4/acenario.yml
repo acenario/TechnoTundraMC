@@ -1,0 +1,7 @@
+playerData:
+  inventoryContents: ''
+  bedSpawnLocation: wo:Hostile4;x:105.0;y:93.0;z:203.0;pi:0.0;ya:0.0
+  balance: '4.46'
+  potions: ''
+  armorContents: ''
+  stats: ma:300;txp:0;hp:20;ft:-20;xp:0.0;fl:20;el:0;fd:0.0;sa:5.0;ex:0.0;ra:300

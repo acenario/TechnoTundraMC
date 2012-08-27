@@ -1,0 +1,8 @@
+playerData:
+  lastLocation: wo:Hardcore_nether;x:9.744404782174799;y:98.0;z:0.7917659879265799;pi:17.400028;ya:19.8
+  bedSpawnLocation: wo:Hardcore;x:43.0;y:67.0;z:44.0;pi:0.0;ya:0.0
+  potions: ''
+  inventoryContents: 0:t:87/1:t:278;d:268;e:DURABILITY:3,LOOT_BONUS_BLOCKS:1/3:t:364;#:4/4:t:360;#:2/5:t:367;#:5/6:t:256;d:110;e:DIG_SPEED:3/7:t:258;d:136;e:DURABILITY:3,DIG_SPEED:4,SILK_TOUCH:1
+  balance: '13.95'
+  armorContents: 0:t:309;d:94/1:t:308;d:94/2:t:307;d:94/3:t:306;d:94
+  stats: txp:56294;sa:0.0;ft:-20;el:37;xp:0.9833454;fl:13;ra:300;ex:1.5138496;hp:20;ma:300;fd:0.0

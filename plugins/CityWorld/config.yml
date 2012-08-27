@@ -1,0 +1,16 @@
+# CityWorld Global Options
+Global:
+  BedrockIsolation: true
+  Plumbing: true
+  Sewer: true
+  Cistern: true
+  Basement: true
+  Underworld: true
+  TreasureInFountain: true
+  TreasureInPlumbing: true
+  TreasureInSewer: true
+  SpawnerInSewer: true
+  OresInSewer: true
+  OresInUnderworld: true
+  StreetLevel: 30
+  MaximumFloors: 20

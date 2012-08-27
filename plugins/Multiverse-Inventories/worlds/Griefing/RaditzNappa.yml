@@ -1,0 +1,6 @@
+playerData:
+  inventoryContents: ''
+  armorContents: ''
+  bedSpawnLocation: wo:Griefing;x:-603.0;y:65.0;z:172.0;pi:0.0;ya:0.0
+  potions: ''
+  stats: xp:0.0;fd:0.0;ma:300;hp:20;txp:0;ft:-20;sa:5.0;fl:20;ra:300;ex:0.0;el:0

@@ -1,0 +1,8 @@
+playerData:
+  balance: '0.0'
+  potions: ''
+  armorContents: ''
+  lastLocation: wo:SurvivalMain;x:-293.3695806185957;y:66.0;z:211.78545323617163;pi:0.59999096;ya:-200.70006
+  bedSpawnLocation: wo:SurvivalMain;x:-191.0;y:63.0;z:200.0;pi:0.0;ya:0.0
+  inventoryContents: ''
+  stats: ft:-20;ra:300;sa:5.0;ex:3.7027483;xp:0.0;ma:300;txp:0;hp:20;fd:0.0;fl:20;el:0

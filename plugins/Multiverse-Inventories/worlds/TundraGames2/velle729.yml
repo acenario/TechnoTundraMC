@@ -1,0 +1,8 @@
+playerData:
+  inventoryContents: 0:t:352;#:2/1:t:262/2:t:261/3:t:276/4:t:324
+  balance: '52.64'
+  potions: ''
+  lastLocation: wo:TundraGames2;x:11.655890546059815;y:20.0;z:-1.6737015507168165;pi:9.513638;ya:34.79648
+  armorContents: ''
+  bedSpawnLocation: wo:TundraGames2;x:-468.0;y:64.0;z:286.0;pi:0.0;ya:0.0
+  stats: fd:0.0;ex:0.62359613;sa:4.0;hp:20;txp:5;ft:-20;xp:0.71428573;ra:300;fl:20;ma:300;el:0
