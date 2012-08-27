@@ -1,0 +1,825 @@
+groups:
+  scrubs:
+    permissions:
+    - server.scrubs
+  default:
+    default: true
+    options:
+      rank: '1000'
+      rank-ladder: Player
+    worlds:
+      Gate:
+        prefix: '&c[Newbie]&2'
+        permissions:
+        - gate.default
+        inheritance:
+        - scrubs
+      SurvivalMain:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.scrubs
+      SurvivalMain_nether:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.scrubs
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.scrubs
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.scrubs
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&b[Scrub]&2'
+        permissions:
+        - server.sg
+  recruit:
+    options:
+      rank: '800'
+      rank-ladder: Player
+    worlds:
+      Gate:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+      SurvivalMain_nether:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&a[Scrub]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&a[Scrub]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&a[Recruit]&2'
+        permissions:
+        - server.recruit
+        inheritance:
+        - SurvivalMain
+  pro:
+    options:
+      rank: '600'
+      rank-ladder: Player
+    worlds:
+      Gate:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+      SurvivalMain_nether:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&2[Pro]&2'
+        permissions:
+        - server.pro
+        inheritance:
+        - SurvivalMain
+  veteran:
+    options:
+      rank: '400'
+      rank-ladder: Player
+    worlds:
+      Gate:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+      SurvivalMain_nether:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&6[Veteran]&2'
+        permissions:
+        - server.veteran
+        inheritance:
+        - SurvivalMain
+  hof:
+    options:
+      rank: '200'
+      rank-ladder: Player
+    worlds:
+      Gate:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+      SurvivalMain_nether:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&e[Hall of Fame]&2'
+        permissions:
+        - server.hof
+        inheritance:
+        - SurvivalMain
+  modr:
+    options:
+      rank: '100'
+      rank-ladder: Modder
+    worlds:
+      Gate:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.modr
+      SurvivalMain_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.modr
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+  mod:
+    options:
+      rank: '50'
+      rank-ladder: Mods
+    worlds:
+      Gate:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - gate.default
+      SurvivalMain:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.mod
+      SurvivalMain_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.mod
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&1[Mod]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&1[Mod]&2'
+        inheritance:
+        - SurvivalMain
+  Admins:
+    options:
+      rank: '1'
+      rank-ladder: Admins
+    worlds:
+      Gate:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.admin
+      SurvivalMain:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.admin
+      SurvivalMain_nether:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      SurvivalMain_the_end:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      ZombieSurvival:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.admin
+        inheritance:
+        - SurvivalMain
+      TundraGames1:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.sg
+      TundraGames2:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.sg
+      TundraGames3:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.sg
+      CTF:
+        prefix: '&4[Admin]&2'
+        permissions:
+        - server.sg
+      Griefing:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore:
+        prefix: '&4[Mod]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_nether:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Hardcore_the_end:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Creative_World:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Heaven_nether:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+      Minigames:
+        prefix: '&4[Admin]&2'
+        inheritance:
+        - SurvivalMain
+  Admin:
+    permissions:
+    - '*'
+    options:
+      rank: '0'
+    prefix: '&4[&2Almighty&4] &3- &b'
+users:
+  acenario:
+    group:
+    - Admin
+    options:
+      group: Admin
+    worlds:
+      world: {}
+  Yajihba:
+    prefix: '&0(&4Admin&0)&7'
+    group:
+    - Member
+    - Admins
+    options:
+      group: Admins
+    worlds:
+      world: {}
+  potatoe4:
+    worlds:
+      theZombies3:
+        prefix: '&4 The God Among Men &6'
+        permissions:
+        - server.admin
+    group:
+    - mod
+    options:
+      group: mod
+  ffstudios:
+    group:
+    - default
+    options:
+      group: default
+  omnomnommer:
+    group:
+    - default
+    options:
+      group: default
+  omnomnomer:
+    worlds:
+      theZombies3:
+        prefix: '&4 THE &6'
+        group:
+        - modr
+    group:
+    - default
+    options:
+      group: default
+  raditznappa:
+    prefix: '&0[&2LordofSquids&0]&7'
+    group:
+    - mod
+    options:
+      group: mod
+  Russian11:
+    group:
+    - mod
+    options:
+      group: mod
+  liam315:
+    group:
+    - default
+    options:
+      group: default
+  SpaceManJones23:
+    prefix: '&0(&aHumbleFarmer&0)&7'
+    group:
+    - default
+    options:
+      group: default
+  Hirogami:
+    prefix: '&0(&4MegaVishnu&0)&7'
+    group:
+    - modr
+    options:
+      group: modr
+  sarchikani:
+    worlds:
+      SarTest:
+        permissions:
+        - essentials.bigtree
+    group:
+    - Admins
+    options:
+      group: Admins
+  metaldoornobs:
+    group:
+    - mod
+    options:
+      group: mod
+  kevinlang:
+    group: []
+    options:
+      group: default
+  BubbleBowl:
+    group:
+    - mod
+    options:
+      group: mod
+  kozy315:
+    worlds:
+      theZombies3:
+        prefix: '&4 THE &6'
+        group:
+        - modr
+      Hardcore:
+        group:
+        - default
+    group:
+    - modr
+    options:
+      group: default
+  carroll315:
+    group:
+    - default
+    options:
+      group: default
+  redmoon96:
+    group:
+    - default
+    options:
+      group: default
+  espycorp06:
+    group:
+    - default
+    options:
+      group: default
+  samlorizzle:
+    group:
+    - default
+    options:
+      group: default
+  PITHEAD:
+    group:
+    - default
+  SpaceManJones32:
+    group:
+    - default
+  AlexL978:
+    group:
+    - default
+  velle729:
+    group:
+    - mod
+  Timotheon:
+    group:
+    - default
+  glenn69:
+    group:
+    - default
+  M14Gamble:
+    group:
+    - default
+  xtr3m3nerd:
+    group:
+    - default
+  OnlyMathias:
+    group:
+    - mod
+  R_Sharpe_03:
+    group:
+    - default
+  lupon22:
+    group:
+    - default

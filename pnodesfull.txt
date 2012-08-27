@@ -1,0 +1,275 @@
+----Citizens----
+citizens.script.* - No description given
+citizens.npc.* - No description given
+citizens.* - No description given
+
+----Backup----
+backup.* - Gives access to all permissins.
+backup.backup - Ability to perform backups
+backup.reload - Reload backup's configuration
+backup.notify - Players with this permissions get notified of backups.
+backup.bypass - Players with this permission are not counted as online players.
+backup.help - Able to view plugin's help menu.
+backup.list - Able to list backups.
+backup.config - Able to view configuration.
+backup.log - Able to view log file.
+backup.updateconf - Able to update the backups configuration file.
+
+----Vault----
+vault.admin - Notifies the player when vault is in need of an update.
+
+----PermissionsEx----
+permissionsex.handler.injected - Service permissions used by PEX for superperms bridge injection. DO NOT USE IT!
+
+----ExplosiveMining----
+EM.false - Turns of the explosion chance.
+
+----iConomy----
+iConomy.* - Gives access to all commands
+iConomy.accounts.* - Gives access only to higher level commands
+iConomy.plus - Gives access to user plus only commands
+iConomy.user - Gives access to user only commands
+iConomy.help - Allows you to request help information.
+iConomy.holdings - Check your balance.
+iConomy.holdings.others - Check other players balance.
+iConomy.top - View top-most accounts.
+iConomy.payment - Send money to others.
+iConomy.accounts.create - Create an account.
+iConomy.accounts.remove - Remove an existing account
+iConomy.accounts.give - Give account a certain amount
+iConomy.accounts.take - Take a certain amount from an account
+iConomy.accounts.set - Set an account's balance to this amount
+iConomy.accounts.status - Check to see the status of an account (Visible, Hidden, Etc)
+iConomy.accounts.status.set - Set the status of an account (Visible (1), Hidden (0))
+iConomy.accounts.purge - Purge all accounts with default creation value.
+iConomy.accounts.empty - Empty / Drop entire database of accounts.
+
+----DisguiseCraft----
+disguisecraft.* - Can use any DisguiseCraft functionality.
+disguisecraft.seer - Can see through disguises.
+disguisecraft.burning - Can have a burning disguise.
+disguisecraft.player - Can disguise as another player.
+disguisecraft.mob.* - Can disguise as any mob.
+disguisecraft.mob.blaze - Can disguise as a blaze.
+disguisecraft.mob.cavespider - Can disguise as a cave spider.
+disguisecraft.mob.chicken - Can disguise as a chicken.
+disguisecraft.mob.chicken.baby - Can disguise as a baby chicken.
+disguisecraft.mob.cow - Can disguise as a cow.
+disguisecraft.mob.cow.baby - Can disguise as a baby cow.
+disguisecraft.mob.creeper - Can disguise as a creeper.
+disguisecraft.mob.creeper.charged - Can disguise as a charged creeper.
+disguisecraft.mob.enderdragon - Can disguise as a ender dragon.
+disguisecraft.mob.enderman - Can disguise as a enderman.
+disguisecraft.mob.enderman.hold - Can hold blocks as an enderman.
+disguisecraft.mob.ghast - Can disguise as a ghast.
+disguisecraft.mob.giant - Can disguise as a giant.
+disguisecraft.mob.irongolem - Can disguise as an iron golem.
+disguisecraft.mob.magmacube - Can disguise as a magma cube.
+disguisecraft.mob.magmacube.size.* - Can disguise as a magmacube of any size.
+disguisecraft.mob.magmacube.size.tiny - Can disguise as a magmacube of size tiny.
+disguisecraft.mob.magmacube.size.small - Can disguise as a magmacube of size small.
+disguisecraft.mob.magmacube.size.big - Can disguise as a magmacube of size big.
+disguisecraft.mob.mushroomcow - Can disguise as a mooshroom.
+disguisecraft.mob.mushroomcow.baby - Can disguise as a baby mooshroom.
+disguisecraft.mob.ocelot - Can disguise as an ocelot.
+disguisecraft.mob.ocelot.baby - Can disguise as a baby ocelot.
+disguisecraft.mob.ocelot.cat.* - Can disguise as a cat of any type.
+disguisecraft.mob.ocelot.cat.tabby - Can disguise as a tabby cat.
+disguisecraft.mob.ocelot.cat.tuxedo - Can disguise as a tuxedo cat.
+disguisecraft.mob.ocelot.cat.siamese - Can disguise as a siamese cat.
+disguisecraft.mob.pig - Can disguise as a pig.
+disguisecraft.mob.pig.baby - Can disguise as a baby pig.
+disguisecraft.mob.pig.saddled - Can disguise as a saddled pig.
+disguisecraft.mob.pigzombie - Can disguise as a zombie pigman.
+disguisecraft.mob.sheep - Can disguise as a sheep.
+disguisecraft.mob.sheep.baby - Can disguise as a baby sheep.
+disguisecraft.mob.sheep.color.* - Can disguise as a sheep of any color.
+disguisecraft.mob.sheep.color.black - Can disguise as a sheep of the color black.
+disguisecraft.mob.sheep.color.blue - Can disguise as a sheep of the color blue.
+disguisecraft.mob.sheep.color.brown - Can disguise as a sheep of the color brown.
+disguisecraft.mob.sheep.color.cyan - Can disguise as a sheep of the color cyan.
+disguisecraft.mob.sheep.color.gray - Can disguise as a sheep of the color gray.
+disguisecraft.mob.sheep.color.green - Can disguise as a sheep of the color green.
+disguisecraft.mob.sheep.color.lightblue - Can disguise as a sheep of the color light blue.
+disguisecraft.mob.sheep.color.lime - Can disguise as a sheep of the color lime.
+disguisecraft.mob.sheep.color.magenta - Can disguise as a sheep of the color magenta.
+disguisecraft.mob.sheep.color.orange - Can disguise as a sheep of the color orange.
+disguisecraft.mob.sheep.color.pink - Can disguise as a sheep of the color pink.
+disguisecraft.mob.sheep.color.purple - Can disguise as a sheep of the color purple.
+disguisecraft.mob.sheep.color.red - Can disguise as a sheep of the color red.
+disguisecraft.mob.sheep.color.silver - Can disguise as a sheep of the color silver.
+disguisecraft.mob.sheep.color.white - Can disguise as a sheep of the color white.
+disguisecraft.mob.sheep.color.yellow - Can disguise as a sheep of the color yellow.
+disguisecraft.mob.sheep.color.sheared - Can disguise as a sheared sheep.
+disguisecraft.mob.silverfish - Can disguise as a silverfish.
+disguisecraft.mob.skeleton - Can disguise as a skeleton.
+disguisecraft.mob.slime - Can disguise as a slime.
+disguisecraft.mob.slime.size.* - Can disguise as a slime of any size.
+disguisecraft.mob.slime.size.tiny - Can disguise as a slime of any size tiny.
+disguisecraft.mob.slime.size.small - Can disguise as a slime of any size small.
+disguisecraft.mob.slime.size.big - Can disguise as a slime of any size big.
+disguisecraft.mob.snowman - Can disguise as a snow golem.
+disguisecraft.mob.spider - Can disguise as a spider.
+disguisecraft.mob.squid - Can disguise as a squid.
+disguisecraft.mob.villager - Can disguise as a villager.
+disguisecraft.mob.villager.baby - Can disguise as a baby villager.
+disguisecraft.mob.villager.occupation.* - Can disguise as a villager of any occupation.
+disguisecraft.mob.villager.occupation.librarian - Can disguise as a librarian villager.
+disguisecraft.mob.villager.occupation.priest - Can disguise as a priest villager.
+disguisecraft.mob.villager.occupation.blacksmith - Can disguise as a blacksmith villager.
+disguisecraft.mob.villager.occupation.butcher - Can disguise as a butcher villager.
+disguisecraft.mob.wolf - Can disguise as a wolf.
+disguisecraft.mob.wolf.baby - Can disguise as a baby wolf.
+disguisecraft.mob.wolf.tamed - Can disguise as a tamed wolf.
+disguisecraft.mob.wolf.aggressive - Can disguise as a agressive wolf.
+disguisecraft.mob.zombie - Can disguise as a zombie.
+
+----CoreProtect----
+coreprotect.* - Gives access to all CoreProtect actions and commands
+coreprotect.rollback - Has permission to perform rollbacks
+coreprotect.restore - Has permission to perform restores
+coreprotect.inspect - Has permission to use the inspector
+coreprotect.help - Has permission to use the inspector
+coreprotect.purge - Has permission to use the inspector
+
+----GetPerms----
+getperms.* - Parent permission
+getperms.regen - Allows player to regenerate permission node files.
+
+----GriefPrevention----
+griefprevention.createclaims - Grants permission to create claims.
+griefprevention.admin.* - Grants all administrative functionality.
+griefprevention.restorenature - Grants permission to use /RestoreNature.
+griefprevention.ignoreclaims - Grants permission to use /IgnoreClaims.
+griefprevention.adminclaims - Grants permission to create administrative claims.
+griefprevention.deleteclaims - Grants permission to delete other players' claims.
+griefprevention.adjustclaimblocks - Grants permission to add or remove bonus blocks from a player's account.
+griefprevention.spam - Grants permission to log in, send messages, and send commands rapidly.
+griefprevention.lava - Grants permission to place lava near the surface and outside of claims.
+
+----InfiniteClaims----
+infiniteclaims.auto - Allows players to automatically recieve a plot
+
+----SimpleClans----
+simpleclans.admin.reload - Can reload configuration
+simpleclans.admin.all-seeing-eye - Can see all clan chats
+simpleclans.mod.verify - Can verify simpleclans
+simpleclans.mod.ban - Can ban players from the entire plugin
+simpleclans.mod.disband - Can disband any clan
+simpleclans.mod.globalff - Can turn off global friendly fire protection
+simpleclans.mod.nohide - Messages from these players cannot be hidden via chat commands
+simpleclans.mod.home - Can set other clan's home
+simpleclans.mod.bypass - Can bypass restrictions
+simpleclans.mod.nopvpinwar - Can bypass pvp in wars
+simpleclans.anyone.list - Can list simpleclans
+simpleclans.anyone.profile - Can view a clan's profile
+simpleclans.anyone.roster - Can veiw a clan's member list
+simpleclans.anyone.lookup - Can lookup a player's info
+simpleclans.anyone.leaderboard - Can view the leaderboard
+simpleclans.anyone.alliances - Can view alliances by clan
+simpleclans.anyone.rivalries - Can view rivalries by clan
+simpleclans.member.profile - Can view his own clan's profile
+simpleclans.member.roster - Can view his own clan's member list
+simpleclans.member.lookup - Can view his own player info
+simpleclans.member.vitals - Can view his clan's vitals
+simpleclans.member.coords - Can view his clan's coords
+simpleclans.member.stats - Can view his simpleclans stats
+simpleclans.member.bb - Can view his clan's bulletin board
+simpleclans.member.bb-add - Can add to his clan's bulletin board
+simpleclans.member.bb-toggle - Can toggle bb on/off
+simpleclans.member.ff - Can toggle his own friendly fire
+simpleclans.member.resign - Can resign from his clan
+simpleclans.member.ally - Can use ally chat
+simpleclans.member.can-join - Can join clans
+simpleclans.member.home - Can tp to home base
+simpleclans.leader.create - Can create simpleclans
+simpleclans.leader.home-set - Can set home base
+simpleclans.leader.home-regroup - Can tp entire clan to homebase
+simpleclans.leader.ally - Can ally his clan with other simpleclans
+simpleclans.leader.rival - Can start a rivalry with another clan
+simpleclans.leader.modtag - Can modify his clan's tag
+simpleclans.leader.cape - Can set his clan's cape url
+simpleclans.member.cape-toggle - Can toggle his cape on/off
+simpleclans.member.kills - Can view his and other's kills
+simpleclans.member.tag-toggle - Can hide his own clan tag
+simpleclans.mod.mostkilled - Can view his and other's clans mostkilled
+simpleclans.mod.keep-items - Can keep items when teleporting home
+simpleclans.leader.invite - Can invite players into his clan
+simpleclans.leader.kick - Can kick players form his tea,
+simpleclans.leader.promote - Can promote players to clan leaders
+simpleclans.leader.promotable - Can be promoted to clan leader
+simpleclans.leader.demote - Can demote clan leaders to normal players
+simpleclans.leader.ff - Can toggle his clan's friendly fire
+simpleclans.leader.disband - Can disband his own clan
+simpleclans.leader.settrust - Can set trust levels for members
+simpleclans.leader.war - Can start wars
+simpleclans.leader.setrank - Can set ranks
+simpleclans.admin.* - Permissions for admins
+simpleclans.mod.* - Permissions for moderators
+simpleclans.anyone.* - Permissions for anyone
+simpleclans.member.* - Permissions for those who can be clan members
+simpleclans.leader.* - Permissions for those who can be clan leaders
+
+----MondoChest----
+mondochest.* - Perform all normal MondoChest actions
+mondochest.admin.* - Do all mondochest admin actions
+mondochest.create_master - Create a new MondoChest bank
+mondochest.add_slave - Manually add new MondoSlaves
+mondochest.use - No description given
+mondochest.admin.break_any - Break anybody's MondoChest signs
+mondochest.admin.add_any_slave - Add slaves to other's MondoChests
+mondochest.admin.reload - Reload the MondoChest config
+
+----ChestShop----
+ChestShop.* - Gives access to all ChestShop permissions
+ChestShop.shop.* - Gives access to all user ChestShop permissions
+ChestShop.shop.create - Allows the user to create a shop that sells and buys any item
+ChestShop.shop.create.buy - Allows the user to create a shop that sells any item
+ChestShop.shop.create.sell - Allows the user to create a shop that buy any item
+ChestShop.shop.create.(itemID) - Allows user to create a shop that sells item with itemID like in the permission node (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.buy.(itemID) - Allows user to buy certain (itemID) from a shop (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.sell.(itemID) - Allows user to sell certain (itemID) from a shop (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.buy - Allows user to buy from a shop
+ChestShop.shop.sell - Allows user to sell to a shop
+ChestShop.nofee - User doesn't have to pay the shop creation fee.
+ChestShop.admin - Allows user to modify/destroy other stores and create an Admin Shops
+ChestShop.mod - Allows user only to view other store chests, he can't destroy them or create an Admin Shop
+ChestShop.name.(some name) - Gives you the power to do create shops for (some name), for example your town.
+ChestShop.shop.create.food - Allows to create a shop that sells food
+ChestShop.shop.create.diamondgrade - Allows to create a shop that sells diamond gear
+ChestShop.shop.create.irongrade - Allows to create a shop that sells iron gear
+ChestShop.shop.create.goldgrade - Allows to create a shop that sells gold gear
+ChestShop.shop.create.stonegrade - Allows to create a shop that sells stone tools and chain armor
+ChestShop.shop.create.woodgrade - Allows to create a shop that sells wood tools and leather armor
+ChestShop.shop.create.diamondarmor - Allows to create a shop that sells diamond armor
+ChestShop.shop.create.diamondtools - Allows to create a shop that sells diamond tools
+ChestShop.shop.create.goldarmor - Allows to create a shop that sells gold armor
+ChestShop.shop.create.goldtools - Allows to create a shop that sells gold tools
+ChestShop.shop.create.ironarmor - Allows to create a shop that sells iron armor
+ChestShop.shop.create.irontools - Allows to create a shop that sells iron tools
+ChestShop.shop.create.chainarmor - Allows to create a shop that sells chain armor
+ChestShop.shop.create.stonetools - Allows to create a shop that sells stone tools
+ChestShop.shop.create.leatherarmor - Allows to create a shop that sells leather armor
+ChestShop.shop.create.woodtools - Allows to create a shop that sells wood tools
+ChestShop.shop.create.bows - Allows to create a shop that sells bows & arrows
+ChestShop.shop.create.misctools - Allows to create a shop that sells misc tools
+ChestShop.shop.create.ore - Allows to create a shop that sells ores
+ChestShop.shop.create.ingots - Allows to create a shop that sells ingots
+ChestShop.shop.create.stairs - Allows to create a shop that sells stairs
+ChestShop.shop.create.monsterdrops - Allows to create a shop that sells mob drops
+ChestShop.shop.create.netherdrops - Allows to create a shop that sells nether drops
+ChestShop.shop.create.plants - Allows to create a shop that sells plants
+ChestShop.shop.create.redstone - No description given
+ChestShop.shop.create.netherblocks - No description given
+ChestShop.shop.create.misc - No description given
+ChestShop.shop.create.steps - Allows to create a shop that sells steps
+ChestShop.shop.create.brewing - Allows to create a shop that sells brewing materials
+ChestShop.shop.create.basic - Allows to create a shop that sells basic blocks
+ChestShop.shop.create.doors - No description given
+ChestShop.shop.create.music - Allows to create a shop that sells music items
+ChestShop.shop.create.vehicles - Allows to create a shop that sells vehicles
+ChestShop.shop.create.wool - Allows to create a shop that sells wool and dye
+ChestShop.shop.create.fence - Allows to create a shop that sells fence
+ChestShop.shop.create.bench - Allows to create a shop that sells crafting blocks
+ChestShop.shop.create.unobtainables - Allows to create a shop that sells unobtainable items
+
