@@ -1,0 +1,282 @@
+2012-08-26 23:18:06 [INFO] Starting minecraft server version 1.3.2
+2012-08-26 23:18:06 [INFO] Loading properties
+2012-08-26 23:18:06 [INFO] Default game type: SURVIVAL
+2012-08-26 23:18:06 [INFO] Generating keypair
+2012-08-26 23:18:07 [INFO] Starting Minecraft server on *:25565
+2012-08-26 23:18:08 [INFO] This server is running CraftBukkit version git-Bukkit-1.3.2-R0.1-b2352jnks (MC: 1.3.2) (Implementing API version 1.3.2-R0.1)
+2012-08-26 23:18:08 [INFO] [PermissionsEx] sql backend registered!
+2012-08-26 23:18:08 [INFO] [PermissionsEx] file backend registered!
+2012-08-26 23:18:08 [INFO] [PermissionsEx] PermissionEx plugin initialized.
+2012-08-26 23:18:09 [INFO] [PermissionsEx] p2compat backend registered!
+2012-08-26 23:18:09 [INFO] [PermissionsCompat] Compatibility Layer Initalized!
+2012-08-26 23:18:09 [INFO] [CityWorld] Loading CityWorld v1.1
+2012-08-26 23:18:09 [INFO] [WorldEdit] Loading WorldEdit v1229-5e4c809
+2012-08-26 23:18:09 [INFO] [Backup] Loading Backup v2.0
+2012-08-26 23:18:09 [INFO] [BeHerobrine] Loading BeHerobrine v1.4.3
+2012-08-26 23:18:09 [INFO] [Vault] Loading Vault v1.2.17-b224
+2012-08-26 23:18:09 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.5-b578
+2012-08-26 23:18:09 [INFO] [PermissionsEx] Loading PermissionsEx v1.19.3
+2012-08-26 23:18:09 [INFO] [PermissionsEx] Initializing file backend
+2012-08-26 23:18:09 [INFO] [WorldGuard] Loading WorldGuard v642-e10ed6a
+2012-08-26 23:18:09 [INFO] [InfinitePlots] Loading InfinitePlots v0.7
+2012-08-26 23:18:09 [INFO] [SimpleFlip] Loading SimpleFlip v1.1
+2012-08-26 23:18:09 [INFO] [iConomy] Loading iConomy v7.0
+2012-08-26 23:18:09 [INFO] [DisguiseCraft] Loading DisguiseCraft v3.2
+2012-08-26 23:18:09 [INFO] [SurvivalGames] Loading SurvivalGames vB 0.4.10
+2012-08-26 23:18:09 [INFO] [CoreProtect] Loading CoreProtect v1.54
+2012-08-26 23:18:09 [INFO] [Permissions] Loading Permissions v2.7.7
+2012-08-26 23:18:09 [INFO] [SkylandsPlus] Loading SkylandsPlus v0.13.1
+2012-08-26 23:18:09 [INFO] [Modifyworld] Loading Modifyworld v1.19.3
+2012-08-26 23:18:09 [INFO] [GriefPrevention] Loading GriefPrevention v6.0
+2012-08-26 23:18:09 [INFO] [Catacombs] Loading Catacombs v2.6
+2012-08-26 23:18:09 [INFO] [Essentials] Loading Essentials v2.9.3
+2012-08-26 23:18:09 [INFO] [ChatManager] Loading ChatManager v1.19.1
+2012-08-26 23:18:09 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.9.3
+2012-08-26 23:18:09 [INFO] MLog clients using java 1.4+ standard logging.
+2012-08-26 23:18:09 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.9.3
+2012-08-26 23:18:09 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.5-b595
+2012-08-26 23:18:09 [INFO] [MagicSigns] Loading MagicSigns v1.1.0
+2012-08-26 23:18:09 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b198
+2012-08-26 23:18:09 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.5-b573
+2012-08-26 23:18:09 [INFO] [ChestShop] Loading ChestShop v3.46
+2012-08-26 23:18:09 [INFO] [EssentialsChat] Loading EssentialsChat v2.9.3
+2012-08-26 23:18:09 [INFO] [CityWorld] Enabling CityWorld v1.1
+2012-08-26 23:18:09 [INFO] CityWorld v1.1 is enabled
+2012-08-26 23:18:09 [INFO] [Vault] Enabling Vault v1.2.17-b224
+2012-08-26 23:18:10 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2012-08-26 23:18:10 [WARNING] iConomy6 - If you are using Flatfile storage be aware that iCo6 has a CRITICAL bug which can wipe ALL iconomy data.
+2012-08-26 23:18:10 [WARNING] if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+2012-08-26 23:18:10 [WARNING] it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+2012-08-26 23:18:10 [INFO] [Vault][Economy] iConomy 6 found: Waiting
+2012-08-26 23:18:10 [INFO] [Vault][Permission] PermissionsEx found: Waiting
+2012-08-26 23:18:10 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-08-26 23:18:10 [INFO] [Vault][Chat] PermissionsEx found: Waiting
+2012-08-26 23:18:10 [INFO] [Vault] Enabled Version 1.2.17-b224
+2012-08-26 23:18:10 [INFO] [InfinitePlots] Enabling InfinitePlots v0.7
+2012-08-26 23:18:10 [INFO] InfinitePlots 0.7: Enabled.
+2012-08-26 23:18:10 [INFO] [SkylandsPlus] Enabling SkylandsPlus v0.13.1
+2012-08-26 23:18:10 [INFO] Preparing level "SurvivalMain"
+2012-08-26 23:18:10 [INFO] Preparing start region for level 0 (Seed: 3056926729607420389)
+2012-08-26 23:18:11 [INFO] Preparing start region for level 1 (Seed: 3056926729607420389)
+2012-08-26 23:18:11 [INFO] Preparing spawn area: 16%
+2012-08-26 23:18:12 [INFO] Preparing start region for level 2 (Seed: 3056926729607420389)
+2012-08-26 23:18:12 [INFO] Preparing spawn area: 56%
+2012-08-26 23:18:12 [INFO] [WorldEdit] Enabling WorldEdit v1229-5e4c809
+2012-08-26 23:18:12 [INFO] WEPIF: Using the Bukkit Permissions API.
+2012-08-26 23:18:12 [INFO] [Backup] Enabling Backup v2.0
+2012-08-26 23:18:12 [INFO] [Backup] Backup is disabled for the following world(s):
+2012-08-26 23:18:12 [INFO] [Backup] [HellWorld, TundraGames1, TundraGames2, MelanyCraft, OfficialWorld, CTF]
+2012-08-26 23:18:12 [INFO] [Backup] Backup v2.0 has completed loading!
+2012-08-26 23:18:12 [INFO] [BeHerobrine] Enabling BeHerobrine v1.4.3
+2012-08-26 23:18:12 [INFO] BeHerobrine Version 1.4.3 Has Been Enabled
+2012-08-26 23:18:13 [INFO] Config Detected.
+2012-08-26 23:18:13 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.5-b578
+2012-08-26 23:18:13 [INFO] [Multiverse-Core] - Version 2.5-b578 (API v17) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-08-26 23:18:13 [INFO] [AllPay] - Version 10.0 - hooked into iConomy 6 for Multiverse-Core v2.5-b578
+2012-08-26 23:18:14 [INFO] Preparing start region for level 3 (Seed: 5669346715006758903)
+2012-08-26 23:18:15 [INFO] Preparing start region for level 4 (Seed: 1723859293697457756)
+2012-08-26 23:18:15 [INFO] Preparing start region for level 5 (Seed: -1120875684151744214)
+2012-08-26 23:18:16 [INFO] Preparing start region for level 6 (Seed: 4982557934896089979)
+2012-08-26 23:18:17 [INFO] Preparing start region for level 7 (Seed: 70726506)
+2012-08-26 23:18:18 [INFO] Preparing start region for level 8 (Seed: -787736891)
+2012-08-26 23:18:19 [INFO] Preparing start region for level 9 (Seed: -4530952403499657140)
+2012-08-26 23:18:20 [INFO] Preparing start region for level 10 (Seed: 6938358163719280732)
+2012-08-26 23:18:21 [INFO] [SkylandsPlus v0.13.1]: The world type of 'Heaven' has been set to to normal.
+2012-08-26 23:18:21 [INFO] Preparing start region for level 11 (Seed: -6106625258071680852)
+2012-08-26 23:18:22 [INFO] Preparing start region for level 12 (Seed: 1920585402)
+2012-08-26 23:18:23 [INFO] InfinitePlots 0.7: Changed the world type of 'Creative_World' to flat (this makes the void blue down to y = 0).
+2012-08-26 23:18:23 [INFO] Preparing start region for level 13 (Seed: -4012899105464558375)
+2012-08-26 23:18:23 [INFO] Preparing start region for level 14 (Seed: -3465699120667030229)
+2012-08-26 23:18:24 [INFO] Preparing start region for level 15 (Seed: 7295233980796346097)
+2012-08-26 23:18:25 [INFO] Preparing spawn area for Griefing, 73%
+2012-08-26 23:18:26 [INFO] Preparing start region for level 16 (Seed: -1200111881391962903)
+2012-08-26 23:18:27 [INFO] Preparing start region for level 17 (Seed: -3351156183318526634)
+2012-08-26 23:18:28 [INFO] Preparing start region for level 18 (Seed: -6763850205428449256)
+2012-08-26 23:18:29 [INFO] [Multiverse-Core] 19 - World(s) loaded.
+2012-08-26 23:18:29 [INFO] [PermissionsEx] Enabling PermissionsEx v1.19.3
+2012-08-26 23:18:29 [INFO] [PermissionsEx] Superperms support enabled.
+2012-08-26 23:18:29 [INFO] [PermissionsEx] v1.19.3 enabled
+2012-08-26 23:18:29 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2012-08-26 23:18:29 [INFO] [Vault][Permission] PermissionsEx hooked.
+2012-08-26 23:18:29 [INFO] [Vault][Chat] PermissionsEx_Chat hooked.
+2012-08-26 23:18:29 [INFO] [WorldGuard] Enabling WorldGuard v642-e10ed6a
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain) TNT ignition is blocked.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain) Lava fire is blocked.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain) All fire spread is disabled.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'SurvivalMain'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_nether) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_nether) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_nether) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_nether) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'SurvivalMain_nether'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_the_end) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_the_end) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_the_end) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (SurvivalMain_the_end) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'SurvivalMain_the_end'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Beta) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Beta) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Beta) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Beta) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'Beta'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven_nether) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven_nether) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven_nether) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven_nether) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'Heaven_nether'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Hardcore_nether) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Hardcore_nether) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Hardcore_nether) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Hardcore_nether) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'Hardcore_nether'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (HellWorld) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (HellWorld) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (HellWorld) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (HellWorld) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'HellWorld'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Minigames) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Minigames) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Minigames) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Minigames) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'Minigames'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (ZombieSurvival) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (ZombieSurvival) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (ZombieSurvival) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (ZombieSurvival) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'ZombieSurvival'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames1) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames1) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames1) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames1) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'TundraGames1'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames2) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames2) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames2) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (TundraGames2) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] Loaded configuration for world 'TundraGames2'
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven) TNT ignition is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven) Lighters are PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven) Lava fire is PERMITTED.
+2012-08-26 23:18:30 [INFO] [WorldGuard] (Heaven) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'Heaven'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (CTF) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (CTF) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (CTF) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (CTF) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'CTF'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Creative_World) TNT ignition is blocked.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Creative_World) Lighters are blocked.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Creative_World) Lava fire is blocked.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Creative_World) All fire spread is disabled.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'Creative_World'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Hardcore) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Hardcore) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Hardcore) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Hardcore) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'Hardcore'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Griefing) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Griefing) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Griefing) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Griefing) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'Griefing'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (MelanyCraft) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (MelanyCraft) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (MelanyCraft) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (MelanyCraft) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'MelanyCraft'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (OfficialWorld) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (OfficialWorld) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (OfficialWorld) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (OfficialWorld) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'OfficialWorld'
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Gate) TNT ignition is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Gate) Lighters are PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Gate) Lava fire is PERMITTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] (Gate) Fire spread is UNRESTRICTED.
+2012-08-26 23:18:31 [INFO] [WorldGuard] Loaded configuration for world 'Gate'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 1 regions loaded for 'SurvivalMain'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'SurvivalMain_nether'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'SurvivalMain_the_end'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Beta'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Heaven_nether'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Hardcore_nether'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'HellWorld'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Minigames'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'ZombieSurvival'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'TundraGames1'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'TundraGames2'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Heaven'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'CTF'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 2 regions loaded for 'Creative_World'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Hardcore'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'Griefing'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'MelanyCraft'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 0 regions loaded for 'OfficialWorld'
+2012-08-26 23:18:31 [INFO] [WorldGuard] 1 regions loaded for 'Gate'
+2012-08-26 23:18:31 [INFO] [SimpleFlip] Enabling SimpleFlip v1.1
+2012-08-26 23:18:31 [INFO] [SimpleFlip] SimpleFlip Version 1.1 Has Been Enabled!
+2012-08-26 23:18:31 [INFO] [SimpleFlip] SimpleFlip! The simple decision plugin by TheGeekGizmo!
+2012-08-26 23:18:31 [INFO] [iConomy] Enabling iConomy v7.0
+2012-08-26 23:18:32 [INFO] [iConomy - April Fools] Enabled (169 ms)
+2012-08-26 23:18:32 [INFO] [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+2012-08-26 23:18:32 [INFO] [Vault][Economy] iConomy 6 hooked.
+2012-08-26 23:18:32 [INFO] [DisguiseCraft] Enabling DisguiseCraft v3.2
+2012-08-26 23:18:32 [INFO] [iConomy - April Fools] Purged accounts with default balance.
+2012-08-26 23:18:32 [INFO] DisguiseCraft version 3.2 is enabled!
+2012-08-26 23:18:32 [INFO] [SurvivalGames] Enabling SurvivalGames vB 0.4.10
+2012-08-26 23:18:32 [INFO] METRICS STARTING
+2012-08-26 23:18:32 [INFO] [CoreProtect] Enabling CoreProtect v1.54
+2012-08-26 23:18:32 [INFO] CoreProtect version 1.54 is enabled!
+2012-08-26 23:18:32 [INFO] [CoreProtect] Using file based data storage.
+2012-08-26 23:18:32 [INFO] [Permissions] Enabling Permissions v2.7.7
+2012-08-26 23:18:32 [INFO] [PermissionsCompat] Compatibility layer enabled.
+2012-08-26 23:18:33 [INFO] WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+2012-08-26 23:18:33 [INFO] [Modifyworld] Enabling Modifyworld v1.19.3
+2012-08-26 23:18:33 [INFO] [Modifyworld] Modifyworld enabled!
+2012-08-26 23:18:33 [INFO] [GriefPrevention] Enabling GriefPrevention v6.0
+2012-08-26 23:18:33 [INFO] GriefPrevention: Grief Prevention enabled.
+2012-08-26 23:18:33 [INFO] GriefPrevention: 2 total claims loaded.
+2012-08-26 23:18:33 [INFO] GriefPrevention: 1 players have staked claims.
+2012-08-26 23:18:34 [INFO] [Catacombs] Enabling Catacombs v2.6
+2012-08-26 23:18:34 [INFO] [Catacombs] Found permission system 'PermissionsEx'
+2012-08-26 23:18:34 [INFO] [Catacombs] Found economy system 'iConomy 6'
+2012-08-26 23:18:35 [INFO] [Essentials] Enabling Essentials v2.9.3
+2012-08-26 23:18:36 [INFO] [Vault][Economy] Essentials Economy hooked.
+2012-08-26 23:18:36 [INFO] Essentials: Using PermissionsEx based permissions.
+2012-08-26 23:18:36 [INFO] [Essentials] Payment method found (Vault - Economy: iConomy 6 version: 1.2.17-b224)
+2012-08-26 23:18:36 [INFO] [ChatManager] Enabling ChatManager v1.19.1
+2012-08-26 23:18:36 [INFO] [ChatManager] ChatManager enabled!
+2012-08-26 23:18:36 [INFO] [ChatManager] Multiverse 2 integration enabled!
+2012-08-26 23:18:36 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.9.3
+2012-08-26 23:18:36 [INFO] Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2012-08-26 23:18:37 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.9.3
+2012-08-26 23:18:37 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b595
+2012-08-26 23:18:37 [INFO] [Multiverse-Portals] - Version 2.5-b595 Enabled - By Rigby and fernferret
+2012-08-26 23:18:37 [WARNING] [Multiverse-Portals]  Failed Parsing World for: toN (World Error, World did not exist or was not imported into Multiverse-Core!)
+2012-08-26 23:18:37 [WARNING] [Multiverse-Portals]  Portal toN has an invalid LOCATION!
+2012-08-26 23:18:37 [WARNING] [Multiverse-Portals]  Portal 'toN' not loaded due to invalid location!
+2012-08-26 23:18:37 [INFO] [Multiverse-Portals]  18 - Portals(s) loaded
+2012-08-26 23:18:37 [WARNING] [Multiverse-Core] Portal toHG has an invalid DESTINATION!
+2012-08-26 23:18:37 [WARNING] [Multiverse-Core] Portal NHG has an invalid DESTINATION!
+2012-08-26 23:18:37 [WARNING] [Multiverse-Core] Portal toHGames has an invalid DESTINATION!
+2012-08-26 23:18:37 [INFO] [MagicSigns] Enabling MagicSigns v1.1.0
+2012-08-26 23:18:37 [INFO] [MagicSigns] Using Vault for economy.
+2012-08-26 23:18:37 [INFO] [MagicSigns] Using Vault for permissions.
+2012-08-26 23:18:37 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b198
+2012-08-26 23:18:38 [INFO] [Multiverse-Inventories 2.5-b198] enabled.
+2012-08-26 23:18:38 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.5-b573
+2012-08-26 23:18:38 [INFO] [MultiVerse-NetherPortals] - Version 2.5-b573 Enabled - By Rigby and fernferret
+2012-08-26 23:18:38 [INFO] [ChestShop] Enabling ChestShop v3.46
+2012-08-26 23:18:38 [INFO] [ChestShop] Vault loaded - using iConomy 6
+2012-08-26 23:18:38 [INFO] [EssentialsChat] Enabling EssentialsChat v2.9.3
+2012-08-26 23:18:38 [INFO] Done (28.597s)! For help, type "help" or "?"
+2012-08-26 23:18:39 [INFO] /24.147.225.216:53657 lost connection
+2012-08-26 23:18:39 [INFO] 1     1
+2012-08-26 23:18:39 [INFO] [Backup] Plugin is up to date, at version: 2.0.
+2012-08-26 23:18:40 [INFO] [SurvivalGames] Connected to database.
+2012-08-26 23:18:50 [INFO] OnlyMathias[/24.147.225.216:53660] logged in with entity id 2782 at ([SurvivalMain] -190.71887354956672, 72.0, 180.69999998807907)
+2012-08-26 23:19:02 [INFO] OnlyMathias issued server command: /gamemode 1
+2012-08-26 23:19:02 [INFO] [PLAYER_COMMAND] OnlyMathias: /gamemode 1 
+2012-08-26 23:19:06 [INFO] OnlyMathias issued server command: /give OnlyMathias 35 64 5
+2012-08-26 23:19:06 [INFO] [PLAYER_COMMAND] OnlyMathias: /give OnlyMathias 35 64 5 

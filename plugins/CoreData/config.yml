@@ -1,0 +1,84 @@
+#CoreProtect Config
+
+# If enabled, always displays all data when doing rollbacks and restores.
+# If disabled, you can manually trigger it in-game by adding "noisy"
+# to the end of your rollback statement.
+noisy-default: true
+
+# If enabled, double clicking a block with the inspector enabled will pull
+# all recent logged block data for that block in the form of a list.
+double-click: false
+
+# MySQL is optional and not required. It is slower and uses more space.
+# If you prefer to use MySQL, enable the following and fill out the fields.
+use-mysql: false
+table-prefix: co_
+mysql-host: localhost
+mysql-port: 3306
+mysql-database: database
+mysql-username: root
+mysql-password: 
+
+# Logs blocks placed by players.
+block-place: true
+
+# Logs blocks broken by players.
+block-break: true
+
+# Logs blocks that break off of other blocks; for example, a sign or torch
+# falling off of a dirt block that a player breaks. This is required for
+# beds/doors to properly rollback.
+natural-break: true
+
+# Properly track block movement, such as sand or gravel falling.
+block-movement: true
+
+# Properly track blocks moved by pistons.
+pistons: true
+
+# Logs blocks that burn up in a fire.
+block-burn: true
+
+# Logs when a block naturally ignites, such as from fire spreading.
+block-ignite: true
+
+# Log explosions, such as TNT and Creepers.
+explosions: true
+
+# Track when an entity changes a block, such as an Enderman destroying blocks.
+entity-change: true
+
+# Logs text on signs. If disabled, signs will be blank when rolled back.
+sign-text: true
+
+# Logs lava and water sources placed/removed by players who are using buckets.
+buckets: true
+
+# Logs natural tree leaf decay.
+leaf-decay: true
+
+# Log tree growth. Trees are linked to the player who planted the sappling.
+tree-growth: true
+
+# Logs mushroom growth.
+mushroom-growth: true
+
+# Logs when portals such as Nether portals generate naturally.
+portals: true
+
+# Logs water flow. If water destroys other blocks, such as torches,
+# this allows it to be properly rolled back.
+water-flow: true
+
+# Logs lava flow. If lava destroys other blocks, such as torches,
+# this allows it to be properly rolled back.
+lava-flow: true
+
+# Allows liquid to be properly tracked and linked to players.
+# For example, if a player places water which flows and destroys torches,
+# it can all be properly restored by rolling back that single player.
+liquid-tracking: true
+
+# Track player interactions, such as when a player opens a door, presses
+# a button, or opens a chest. Player interactions can't be rolled back.
+player-interact: false
