@@ -1,5 +1,1 @@
-HI
-Hi - Skandha
-HI HI HI HI HI HI HI HI HI HI HI
-
-you suck skandha-sarvesh
+Hello this is where the code for our server goes.
